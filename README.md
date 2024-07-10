@@ -4,9 +4,9 @@
 
 ### [(49) 99950-2127](https://wa.me/5549999502127)
 
-### [mateusauler2@gmail.com](mateusauler2@gmail.com)
+### [mateusauler2@gmail.com](mailto:mateusauler2@gmail.com)
 
-### [GitHub](https://github.com/mateusheberle)
+### [GitHub](https://github.com/mateusheberle?tab=repositories)
 
 ### [LinkedIn](https://www.linkedin.com/in/mateus-auler/)
 
@@ -27,10 +27,10 @@
 
 ## FERRAMENTAS E TECNOLOGIAS
 
-
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
