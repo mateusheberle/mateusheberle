@@ -6,7 +6,7 @@
 
 ### [mateusauler2@gmail.com](mailto:mateusauler2@gmail.com)
 
-### [GitHub](https://github.com/mateusheberle?tab=repositories)
+### [GitHub Repositories](https://github.com/mateusheberle?tab=repositories)
 
 ### [LinkedIn](https://www.linkedin.com/in/mateus-auler/)
 
