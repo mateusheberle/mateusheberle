@@ -16,6 +16,7 @@
 
 ## FORMAÇÃO
     Curso Técnico em Informática - SENAI (2017)
+    Curso Superior em Tecnologia de Análise e Desenvolvimento de Sistemas - SENAI (2024-)
 
 ## CURSOS COMPLEMENTARES
     - Curso de Desenvolvimento de Aplicativos Android - SENAI (2023)
