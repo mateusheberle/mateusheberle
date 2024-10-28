@@ -2,13 +2,10 @@
 
 # Mateus Auler Heberle
 
-### [(49) 99950-2127](https://wa.me/5549999502127)
-
-### [mateusauler2@gmail.com](mailto:mateusauler2@gmail.com)
-
-### [GitHub Repositories](https://github.com/mateusheberle?tab=repositories)
-
-### [LinkedIn](https://www.linkedin.com/in/mateus-auler/)
+[![WhatsApp](https://img.icons8.com/ios-filled/50/4CAF50/whatsapp.png)](https://wa.me/5549999502127)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mateusauler2@gmail.com)
+[![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://github.com/mateusheberle?tab=repositories)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/mateus-auler/)
 
 
 ## OBJETIVO
@@ -36,6 +33,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> 
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/>
 </p>
 
     - Flutter
@@ -45,3 +43,4 @@
     - Android Studio 
     - Git
     - GitHub
+    - Firebase
