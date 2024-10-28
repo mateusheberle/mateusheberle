@@ -6,7 +6,7 @@
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mateusauler2@gmail.com)
 [![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://github.com/mateusheberle?tab=repositories)
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/mateus-auler/)
-
+[![Dribbble](https://img.icons8.com/ios-filled/50/EA4C89/dribbble.png)](https://dribbble.com/MateusAuler)
 
 ## OBJETIVO
     Atuar na área de Desenvolvimento Mobile
