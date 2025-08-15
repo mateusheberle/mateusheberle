@@ -62,13 +62,5 @@ Atuei com desenvolvimento interno de aplicações, suporte técnico e manutenç�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusheberle&show_icons=true&theme=default&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusheberle&theme=default" />
-</p>
-
 
 > Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
