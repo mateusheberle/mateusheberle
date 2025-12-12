@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo Mateus Auler Heberle, sou Desenvolvedor Mobile com foco em **Flutter** e **Kotlin**, apaixonado por transformar ideias em aplicativos reais que fazem a diferença.
+Olá! Me chamo Mateus Auler Heberle, sou Desenvolvedor Mobile com foco em **Flutter**, apaixonado por transformar ideias em aplicativos reais que fazem a diferença.
 
 Estou sempre estudando, desenvolvendo projetos próprios e buscando oportunidades para crescer profissionalmente na área de tecnologia.
 
@@ -36,18 +36,27 @@ Atuar profissionalmente como Desenvolvedor Mobile, contribuindo com soluções i
 - Curso Técnico em Informática – **SENAI** *(2017)*
 - Superior em Análise e Desenvolvimento de Sistemas – **SENAI** *(2024 - em andamento)*
 
-
 ## 🧠 Cursos Complementares
 
 - Desenvolvimento de Aplicativos Android – SENAI *(2023)*
 - Flutter do Zero ao Pro – EBAC *(2023–2024)*
-- Desenvolvedor Android com Kotlin – EBAC *(2024–)*
-
 
 ## 💼 Experiência
 
 **Desenvolvedor Júnior – Sênior do Contestado** *(2018)*  
 Atuei com desenvolvimento interno de aplicações, suporte técnico e manutenção de sistemas legados. Primeiro contato prático com o mercado de TI.
+
+## 📱 Screenshots
+
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="1.png" width="250"> | <img src="2.png" width="250"> | <img src="3.png" width="250"> |
+| <img src="4.png" width="250"> | <img src="5.png" width="250"> | <img src="6.png" width="250"> |
+| <img src="7.png" width="250"> | <img src="8.png" width="250"> | <img src="9.png" width="250"> |
+
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
